@@ -1,6 +1,8 @@
+
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sahid Jamal</h1>
 <h3 align="center">A passionate MERN Stack developer from Masai</h3>
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahid-321&label=Profile%20views&color=0e75b6&style=flat" alt="sahid-321" /> </p>
 
