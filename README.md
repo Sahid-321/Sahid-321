@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahid-321" alt="sahid-321" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sahidjamal16" target="blank"><img src="https://img.shields.io/twitter/follow/sahidjamal16?logo=twitter&style=for-the-badge" alt="sahidjamal16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sahidjamal16" target="blank"><img src="[https://img.shields.io/twitter/follow/sahidjamal16?logo=twitter&style=for-the-badge](https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg)" alt="sahidjamal16" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -47,7 +47,7 @@
  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />&nbsp;&nbsp;
 </p>
 <hr>
-<h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Tools | Use..</h4>
+<h4><img src="https://github.com/Sahid-321/Sahid-321/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Tools | Use..</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
