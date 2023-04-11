@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 My previous projects are available at [https://portfolio.swasthpro.com/](https://portfolio.swasthpro.com/)
+- 👨‍💻 My previous projects are available at [https://sahid-jamal-portfolio.netlify.app/](https://sahid-jamal-portfolio.netlify.app/)
 
 - 💬 Ask me about **react**
 
